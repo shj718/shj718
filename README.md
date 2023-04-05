@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=CEDAFF&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Hyejun's%20GitHub&descAlign=70.&descAlignY=44">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Hyejun's%20GitHub&descAlign=70.&descAlignY=44">
 <br/>
   
 ####  🌠 History 🌠
   <p>홍익대학교 컴퓨터공학과 <sub/>(2019.03 ~ )<sub/></br>
   <p>알고리즘 스터디: <a href="https://github.com/shj718/hongjangal">홍장알</a> <sub/>(2021.09 ~ )<sub/></br>
   <p>부트캠프(백엔드 파트) 우수 수료: <a href="https://github.com/shj718/netflix-server">넷플릭스 협업 클론 (스프링 부트)</a> <sub/>(2022.02 ~ 2022.04)<sub/></br>
-  <p>백엔드 사이드 프로젝트: <a href="https://github.com/shj718/bookmoji">북모지</a> <sub/>(2022.04 ~ 2022.06)<sub/></br>
+  <p>백엔드 사이드 프로젝트: <a href="https://github.com/shj718/bookmoji">북모지 (스프링 부트)</a> <sub/>(2022.04 ~ 2022.06)<sub/></br>
   <p><b>KMI 한국의학연구소 인턴 (백엔드 개발)</b> <sub/>(2022.06 ~ 2022.08)<sub/></br>
   <p>정보처리기사 취득 <sub/>(2022.11)<sub/></br>
   <p>삼성SDS 대학생 알고리즘 특강 <sub/>(2023.01 ~ 2023.01)<sub/></br>
