@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=F6F37D&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&fontColor=FFFFFF&desc=Hyejun's%20GitHub&descAlign=70.&descAlignY=44">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=F6F37D&height=250&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=5&fontColor=FFFFFF&desc=Hyejun's%20GitHub&descAlign=80&descAlignY=15">
 <br/>
   
 ####  🌠 History 🌠
