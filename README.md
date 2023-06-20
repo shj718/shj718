@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Hyejun%20Seo&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Hyejun%20Seo&fontSize=90&animation=blinking" />
 <br/>
   
 ####  🌠 History 🌠
