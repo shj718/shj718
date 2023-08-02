@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=160&section=header&text=Hyejun%20Seo&fontSize=80&animation=blinking" />
 <br/>
   
-####  🌠 History 🌠
+## ✨ History
   <p>홍익대학교 컴퓨터공학과 <sub/>(2019.03 ~ )<sub/></br>
   <p>알고리즘 스터디: <a href="https://github.com/shj718/hongjangal">홍장알</a> <sub/>(2021.09 ~ )<sub/></br>
   <p>부트캠프(백엔드 파트) 우수 수료: <a href="https://github.com/shj718/netflix-server">넷플릭스 협업 클론 (스프링 부트)</a> <sub/>(2022.02 ~ 2022.04)<sub/></br>
@@ -17,7 +17,7 @@
   
 <br/>
   
-####  👩‍💻 Studying 👩‍💻
+## ✨ Studying
   
 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <br>
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
