@@ -10,7 +10,7 @@
   <p><a href="https://www.kmi.or.kr">KMI 한국의학연구소</a> 인턴 (백엔드 개발): 디지털 식권 프로젝트 <sub/>(2022.06 ~ 2022.08)<sub/></br>
   <p>정보처리기사 취득 <sub/>(2022.11)<sub/></br>
   <p>삼성SDS 대학생 알고리즘 특강 <sub/>(2023.01 ~ 2023.01)<sub/></br>
-  <p>신촌 연합 IT 창업 동아리: <a href="https://github.com/CEOS-Developers">CEOS 17기 백엔드</a> <sub/>(2023.03 ~ )<sub/></br>
+  <p>신촌 연합 IT 창업 동아리: <a href="https://github.com/CEOS-Developers">CEOS 17기 백엔드</a> <sub/>(2023.03 ~ 2023.08)<sub/></br>
   <p>중고 의류 거래 플랫폼 <a href="https://github.com/Repick-official/repick-server">Repick</a> 백엔드 개발 <sub/>(2023.07 ~ )<sub/></br>
   
 <br/>
